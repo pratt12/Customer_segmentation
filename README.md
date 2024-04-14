@@ -80,6 +80,21 @@ Silhouette score analysis to check the quality of clustering
 
 <img width="704" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/08ee85a2-1b9f-4608-84ff-9b7f318103c9">
 
+Output
+
+<img width="489" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/125a96df-9290-4ce1-bb67-ed21cde11b2c">
+
+Visualizing the clusters
+
+<img width="711" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/0d6e82e1-7fdd-4595-9323-6b4b50e99869">
+
+Clustered data visualization
+
+<img width="542" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/9ec86d5a-6188-4286-bc66-58520dfdac4c">
+
+
+
+
 
 
 
