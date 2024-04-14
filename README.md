@@ -56,7 +56,19 @@ Correlation matrix for the dataset
 
 <img width="722" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/60a154a4-38b7-4ab8-84c2-c42710a96cae">
 
-<img width="722" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/42b6b0d9-c7b4-4591-99be-9c2744d17d79">
+Marital Status of the Customers
+
+<img width="417" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/888c417c-9448-4675-9b5a-1c05f0176f1b">
+
+Importing Kmeans Clustering and preparing the data for Clustering model
+
+<img width="655" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/54cec9e4-1f8c-42cc-bacf-07866cab3909">
+
+Principal Component Analysis (PCA) 
+
+
+
+
 
 
 
