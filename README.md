@@ -92,6 +92,72 @@ Clustered data visualization
 
 <img width="542" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/9ec86d5a-6188-4286-bc66-58520dfdac4c">
 
+Mean Consumption on diff product types by cluster
+
+<img width="689" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/05b6c64f-9381-41a0-90e0-01a5668cc402">
+
+<img width="686" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/b5c894fd-004e-4890-ad52-9501ac4423e6">
+
+Visualizing the consumption of the various product
+
+<img width="647" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/38cbd3c1-81ec-4cc2-b69d-21b99710e5e2">
+
+Cluster sizes and visualization 
+
+<img width="702" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/c7fe2586-9007-4bad-b4d4-76f5210d7fb1">
+
+<img width="544" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/ca8f5df1-1bc6-40d7-8295-3bb99fa2a76f">
+
+Boxplot of the income by cluster
+
+<img width="680" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/aeffb3ec-2fdf-45aa-9d65-b896781f68f3">
+
+<img width="559" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/2d4784dc-0da4-45ee-82ea-8fc1c4ea73ca">
+
+Scatter Plot of the Income
+
+<img width="683" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/345e16de-73f6-414e-830c-ca7714ff7eca">
+
+<img width="515" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/08874718-d997-48bf-ab18-112d61c715ff">
+
+Features of the Clusters
+
+<img width="720" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/899aa0da-72bb-47de-8ed0-52feb11ff98c">
+
+<img width="500" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/e17f481e-71ca-444b-9f35-b3e20a676487">
+
+Results¶
+This section contains the results of the K-means clustering analysis, which aimed to identify distinct customer segments based on the total amount of purchases they made (MntTotal). The analysis utilised 'Income' and 'In_relationship' features.
+
+Optimal number of clusters = 4
+The Elbow Method and Silhouette Analysis suggested 4 clusters (k=4). The elbow method highlighted the number of 4 or 5 clusters as a reasonable number of clusters. The silhouette score analysis revealed a peak silhouette score for k=4.
+
+# Cluster Characteristics
+
+Cluster 0: High value customers in relationship (either married or together)
+This cluster represents 26% of the customer base. These customers have high income and they are in a relationship
+
+Cluster 1: Low value single customers
+This cluster represents 21% of the customer base. These customers have low income and they are single
+
+Cluster 2: High value single customers
+This cluster represents 15% of the customer base. These customers have high income and they are single
+
+Cluster 3: Low value customers in relationship
+This cluster represents 39% of the customer base. These customers have low income and they are in a relationship
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
