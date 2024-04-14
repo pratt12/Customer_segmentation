@@ -9,6 +9,7 @@
 <img width="719" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/0d83d7ad-1630-4bbf-a045-9fd48379840a">
 
 No missing values in the whole dataset
+
 <img width="703" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/be244003-2c1d-4074-becb-a322fabf54d8">
 
 
