@@ -126,8 +126,7 @@ Features of the Clusters
 
 <img width="500" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/e17f481e-71ca-444b-9f35-b3e20a676487">
 
-Results¶
-This section contains the results of the K-means clustering analysis, which aimed to identify distinct customer segments based on the total amount of purchases they made (MntTotal). The analysis utilised 'Income' and 'In_relationship' features.
+# Results
 
 Optimal number of clusters = 4
 The Elbow Method and Silhouette Analysis suggested 4 clusters (k=4). The elbow method highlighted the number of 4 or 5 clusters as a reasonable number of clusters. The silhouette score analysis revealed a peak silhouette score for k=4.
