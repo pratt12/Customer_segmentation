@@ -64,7 +64,28 @@ Importing Kmeans Clustering and preparing the data for Clustering model
 
 <img width="655" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/54cec9e4-1f8c-42cc-bacf-07866cab3909">
 
-Principal Component Analysis (PCA) 
+Principal Component Analysis (PCA) for reducing the dimension of the dataset (to avoid dimensionality curse lol)
+
+<img width="693" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/bee8fea5-dcd9-4d19-a9b9-64cfe0a51956">
+
+Now using the elbow method to determine the optimal number of clusters (k) for the K-Means Clustering
+
+<img width="698" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/f2fb7665-b77a-455a-a0c0-cd597fb84fe7">
+
+Output
+
+<img width="410" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/c0cac6ff-56fd-485d-9417-724388d72905">
+
+Silhouette score analysis to check the quality of clustering
+
+<img width="704" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/08ee85a2-1b9f-4608-84ff-9b7f318103c9">
+
+
+
+
+
+
+
 
 
 
