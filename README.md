@@ -52,7 +52,14 @@ Making correlation matrix to check which data column is most closely related.
 
 Correlation matrix for the dataset
 
-![Uploading image.png…]()
+<img width="365" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/bef06321-df77-4d73-97ca-ac2471e12e2e">
+
+<img width="722" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/60a154a4-38b7-4ab8-84c2-c42710a96cae">
+
+<img width="722" alt="image" src="https://github.com/pratt12/Customer_segmentation/assets/69366735/42b6b0d9-c7b4-4591-99be-9c2744d17d79">
+
+
+
 
 
 
